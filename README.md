@@ -1,25 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yameen 👋
 
-I'm Yameen, a Computer Science student at UNC Charlotte and an aspiring Software Engineer. I enjoy building full stack applications with Java, Spring Boot, Python, Django, JavaScript, and React. I use my GitHub to document my progress, experiment with new technologies, and share projects as I grow in the field.
+Software Engineer focused on building full-stack applications with **Spring Boot**, **Django**, **React**, and **SQL**. I enjoy turning ideas into real products with clean backend logic and simple, modern UI.
 
-### 🚀 What I'm Working On
-- Building full stack apps using Spring Boot, React, and SQL  
-- Improving my data structures and algorithms skills with Python  
-- Developing my personal portfolio website
+### 🚀 What I Do
+- Build structured web apps using Java Spring Boot, Django, React  
+- Work with REST APIs, SQL databases, Docker, and AWS  
+- Design backend systems, authentication, CRUD, and scalable architecture  
+- Always learning more about DevOps and modern tooling
 
-### 📚 Currently Learning
-- Java Spring Boot (REST APIs, MySQL, Docker)  
-- React and modern frontend tooling  
-- System design fundamentals  
-
-### 🔧 Tech Stack
-**Languages:** Java, Python, JavaScript  
+### 🧰 Tech Stack
+**Languages:** Java, Python, JavaScript, TypeScript, SQL  
 **Frameworks:** Spring Boot, Django, React  
-**Tools:** Git, GitHub, MySQL, Docker, IntelliJ, VS Code  
+**Tools:** Docker, GitHub Actions, AWS, Postman, Linux  
+**Databases:** PostgreSQL, MySQL, SQLite  
 
-### 📫 Connect with Me
-- Portfolio: *coming soon*  
-- LinkedIn: linkedin.com/in/yameen-alsaaidah  
+### 📌 Projects
+- **Trimly** – AI powered barbershop booking platform  
+- **StudyBud** – Real time study collaboration app  
+- **WeatherVibe** – Weather forecast app using external API  
+- **SharePoint HR Portal** – Internal onboarding portal for CPCC HR  
 
-### ⚡ Fun
-I love soccer, Real Madrid, video games, and experimenting with new tech.
+### 🎓 Currently
+- Studying Computer Science at UNC Charlotte, graduating May 2027  
+- Open to internships and software engineering opportunities  
+
+### ⚽ Fun Stuff
+I love **soccer**, Real Madrid, gaming, lifting, and building stuff that actually works.
+
+### 🔗 Links
+**Portfolio:** https://yameenrizeq.com  
+**LinkedIn:** https://www.linkedin.com/in/yameen-alsaaidah/  
+**GitHub:** https://github.com/Yameen05  
+**Email:** Yameen.code@gmail.com 
