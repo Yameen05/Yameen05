@@ -30,5 +30,4 @@ I love **soccer**, Real Madrid, gaming, lifting, and building stuff that actuall
 ### 🔗 Links
 **Portfolio:** https://yameenrizeq.com  
 **LinkedIn:** https://www.linkedin.com/in/yameen-alsaaidah/  
-**GitHub:** https://github.com/Yameen05  
 **Email:** Yameen.code@gmail.com 
