@@ -1,33 +1,29 @@
-# Hi, I'm Yameen 👋
+# Yameen Alsaaidah
 
-Software Engineer focused on building full-stack applications with **Spring Boot**, **Django**, **React**, and **SQL**. I enjoy turning ideas into real products with clean backend logic and simple, modern UI.
+CS student at UNC Charlotte (graduating May 2027), focused on full-stack development.
+I build things with Spring Boot, React, and Python — mostly backend-heavy, with enough
+frontend to not embarrass myself.
 
-### 🚀 What I Do
-- Build structured web apps using Java Spring Boot, Django, React  
-- Work with REST APIs, SQL databases, Docker, and AWS  
-- Design backend systems, authentication, CRUD, and scalable architecture  
-- Always learning more about DevOps and modern tooling
+Most of my projects live at the intersection of real use cases and things I actually
+wanted to exist. Trimly started because I was annoyed by how barbers handle scheduling.
+FinTrack came out of wanting to understand where my money goes. Not everything I build
+is interesting, but I try to have a reason for it.
 
-### 🧰 Tech Stack
-**Languages:** Java, Python, JavaScript, TypeScript, SQL  
-**Frameworks:** Spring Boot, Django, React  
-**Tools:** Docker, GitHub Actions, AWS, Postman, Linux  
-**Databases:** PostgreSQL, MySQL, SQLite  
+**Stack:** Java / Spring Boot, Python / Django, React, TypeScript, MySQL, PostgreSQL, Docker  
+**Currently learning:** AWS, system design, and how to not embarrass myself on LeetCode
 
-### 📌 Projects
-- **Trimly** – AI powered barbershop booking platform  
-- **StudyBud** – Real time study collaboration app  
-- **WeatherVibe** – Weather forecast app using external API  
-- **SharePoint HR Portal** – Internal onboarding portal for CPCC HR  
+---
 
-### 🎓 Currently
-- Studying Computer Science at UNC Charlotte, graduating May 2027  
-- Open to internships and software engineering opportunities  
+## Projects
 
-### ⚽ Fun Stuff
-I love **soccer**, Real Madrid, gaming, lifting, and building stuff that actually works.
+**[Trimly](link)** — Full-stack barbershop booking platform. Spring Boot backend, React
+frontend, MySQL, Docker, GPT-4 chatbot for scheduling assistance. Built this end to end.
 
-### 🔗 Links
-**Portfolio:** https://yameenrizeq.com  
-**LinkedIn:** https://www.linkedin.com/in/yameen-alsaaidah/  
-**Email:** Yameen.code@gmail.com 
+**[FinTrack](link)** — Personal finance tracker with OpenAI-powered insights.
+Spring Boot + React + MySQL, containerized with Docker.
+
+---
+
+## Links
+
+[Portfolio](https://yameenrizeq.com) · [LinkedIn](https://www.linkedin.com/in/yameen-alsaaidah/) · [Email](mailto:Yameen.code@gmail.com)
