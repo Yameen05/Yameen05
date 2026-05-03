@@ -16,11 +16,9 @@ is interesting, but I try to have a reason for it.
 
 ## Projects
 
-**[Trimly]([link](https://github.com/Yameen05/Trimly))** — Full-stack barbershop booking platform. Spring Boot backend, React
-frontend, MySQL, Docker, GPT-4 chatbot for scheduling assistance. Built this end to end.
+**[Trimly](https://github.com/Yameen05/Trimly)** — Full-stack barbershop booking platform. Spring Boot backend, React frontend, MySQL, Docker, GPT-4 chatbot for scheduling assistance. Built this end to end.
 
-**[FinTrack]([link](https://github.com/Yameen05/fintrack))** — Personal finance tracker with OpenAI-powered insights.
-Spring Boot + React + MySQL, containerized with Docker.
+**[FinTrack](https://github.com/Yameen05/fintrack)** — Personal finance tracker with OpenAI-powered insights. Spring Boot + React + MySQL, containerized with Docker.
 
 ---
 
