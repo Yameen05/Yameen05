@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Yameen05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yameen05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yameen-alsaaidah)
 [![Gmail](https://img.shields.io/badge/Yameen.code@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yameen.code@gmail.com)
 [![Website](https://img.shields.io/badge/yameenrizeq.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yameenrizeq.com)
 
@@ -79,10 +79,6 @@ class Yameen(Person):
 
 ---
 
-## 🤠 My Corner of the Internet
+## Links
 
-💻 **Personal Website:** [yameenrizeq.com](https://yameenrizeq.com)
-
-💼 **LinkedIn:** [linkedin.com/in/yameen-alsaaidah](https://linkedin.com/in/yameen-alsaaidah)
-
-📬 **Email:** [Yameen.code@gmail.com](mailto:Yameen.code@gmail.com)
+[Portfolio](https://yameenrizeq.com) · [LinkedIn](https://linkedin.com/in/yameen-alsaaidah) · [Email](mailto:Yameen.code@gmail.com)
