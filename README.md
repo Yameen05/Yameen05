@@ -1,7 +1,7 @@
 # Yameen Alsaaidah
 
 CS student at UNC Charlotte (graduating May 2027), focused on full-stack development.
-I build things with Spring Boot, React, and Python — mostly backend-heavy, with enough
+I build things with Spring Boot, React, and Python - mostly backend-heavy, with enough
 frontend to not embarrass myself.
 
 Most of my projects live at the intersection of real use cases and things I actually
