@@ -2,9 +2,9 @@
 
 # Yameen Alsaaidah
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yameen-alsaaidah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yameenrizeq.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yameen.code@gmail.com)
+![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square) ![CS Student](https://img.shields.io/badge/CS-UNC%20Charlotte%20'27-blue?style=flat-square) ![Backend Heavy](https://img.shields.io/badge/Backend-Heavy-orange?style=flat-square)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yameen-alsaaidah) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yameenrizeq.com) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yameen.code@gmail.com)
 
 </div>
 
@@ -19,16 +19,16 @@ Most of my projects live at the intersection of real use cases and things I actu
 
 ---
 
-## How I'd Define Me... in code
+## Me... In Code 
 
 ```python
 class Yameen(Person):
     def __init__(self):
-        self.name       = "Yameen Alsaaidah"
-        self.location   = "Charlotte, NC"
-        self.education  = "BS Computer Science — UNC Charlotte (May 2027)"
-        self.interests  = ["Backend Systems", "Full-Stack Dev", "Applied AI", "System Design", "Cloud & DevOps"]
-        self.open_to    = ["internships", "cool side projects", "people who actually read READMEs"]
+        self.name            = "Yameen Alsaaidah"
+        self.location        = "Charlotte, NC"
+        self.education       = "BS Computer Science — UNC Charlotte (May 2027)"
+        self.interests       = ["Backend Systems", "Full-Stack Dev", "Applied AI", "System Design", "Cloud & DevOps"]
+        self.open_to         = ["internships", "cool side projects", "people who actually read READMEs"]
 
     def stack(self):
         return {
@@ -39,11 +39,11 @@ class Yameen(Person):
 
     def currently(self):
         return {
-            "building": [
-                "Trimly  — barbershop booking platform w/ GPT-4 scheduling",
+            "building":      [
+                "Trimly — barbershop booking platform w/ GPT-4 scheduling",
                 "FinTrack — personal finance tracker w/ AI-powered insights",
             ],
-            "learning": ["AWS", "system design", "LeetCode (painfully slowly)"],
+            "learning":      ["AWS", "system design", "LeetCode (painfully slowly)"],
             "obsessed_with": "why my Spring Boot app works in dev but not in Docker",
         }
 
@@ -61,14 +61,28 @@ class Yameen(Person):
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-**[Trimly](https://github.com/Yameen05/Trimly)** — Full-stack barbershop booking platform built end to end. Spring Boot backend, React frontend, MySQL, Docker, and a GPT-4 chatbot for scheduling assistance.
+### [Trimly](https://github.com/Yameen05/Trimly) — Barbershop Booking Platform
+Full-stack barbershop booking platform built end to end. Spring Boot REST API backend, React frontend, MySQL database, containerized with Docker, and a **GPT-4 chatbot** for intelligent scheduling assistance.
 
-**[FinTrack](https://github.com/Yameen05/fintrack)** — Personal finance tracker with OpenAI-powered spending insights. Spring Boot + React + MySQL, containerized with Docker.
+`Java` `Spring Boot` `React` `MySQL` `Docker` `OpenAI API`
+
+### [FinTrack](https://github.com/Yameen05/fintrack) — AI-Powered Finance Tracker
+Personal finance tracker with **OpenAI-powered spending insights**. Tracks transactions, categorizes spending, and surfaces patterns you'd never notice manually. Spring Boot + React + MySQL, fully containerized.
+
+`Java` `Spring Boot` `React` `MySQL` `Docker` `OpenAI API`
 
 ---
 
-## Connect
+## Let's Connect
 
-[yameenrizeq.com](https://yameenrizeq.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yameen-alsaaidah) &nbsp;·&nbsp; [Yameen.code@gmail.com](mailto:Yameen.code@gmail.com)
+<div align="left">
+
+| | |
+|---|---|
+| 🌐 **Portfolio** | [yameenrizeq.com](https://yameenrizeq.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/yameen-alsaaidah](https://linkedin.com/in/yameen-alsaaidah) |
+| 📧 **Email** | [Yameen.code@gmail.com](mailto:Yameen.code@gmail.com) |
+
+</div>
