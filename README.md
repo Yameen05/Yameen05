@@ -2,9 +2,9 @@
 
 # Yameen Alsaaidah
 
-![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square) ![CS Student](https://img.shields.io/badge/CS-UNC%20Charlotte%20'27-blue?style=flat-square) ![Backend Heavy](https://img.shields.io/badge/Backend-Heavy-orange?style=flat-square)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yameen-alsaaidah) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yameenrizeq.com) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yameen.code@gmail.com)
+
+![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square) ![CS Student](https://img.shields.io/badge/CS-UNC%20Charlotte%20'27-blue?style=flat-square) 
 
 </div>
 
