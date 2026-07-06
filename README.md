@@ -2,7 +2,7 @@
 
 I'm [Yameen](https://yameenrizeq.com), a Computer Science student at UNC Charlotte building full-stack and AI-powered software.
 
-I'm pursuing my B.S. in Computer Science with a Software Engineering concentration, while also admitted to UNC Charlotte’s Early Entry M.S. in Computer Science program with a focus in Artificial Intelligence.
+I'm pursuing my B.S. in Computer Science with a Software Engineering concentration, and was admitted to UNC Charlotte’s Early Entry M.S. in Computer Science program with a focus in Artificial Intelligence.
 
 My main focus right now is [**Verdict**](https://github.com/Yameen05/Verdict), an AI-powered equity research platform I’m building into a real shipped product. It combines SEC filings, financial data, news, and multi-agent AI workflows to generate explainable investment research.
 
