@@ -4,7 +4,7 @@ I'm [Yameen](https://yameenrizeq.com), a Computer Science student at UNC Charlot
 
 I build full-stack applications, backend systems, and AI-powered products. If an idea pops into my head, chances are I’ll build it and try to ship it.
 
-I've built over 100 public repositories, but privately, it’s probably more than 200 at this point.
+I've built over 100 repositories, but privately, it’s probably more than 200 at this point.
 
 I'm pursuing my B.S. in Computer Science with a Software Engineering concentration, and was admitted to UNC Charlotte’s Early Entry M.S. in Computer Science program with a focus in Artificial Intelligence.
 
