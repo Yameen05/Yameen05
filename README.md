@@ -2,9 +2,13 @@
 
 I'm [Yameen](https://yameenrizeq.com), a Computer Science student at UNC Charlotte building full-stack and AI-powered software.
 
+I build full-stack applications, backend systems, and AI-powered products. If an idea pops into my head, chances are I’ll build it and try to ship it.
+
+I've built over 100 public repositories, but privately, it’s probably more than 200 at this point.
+
 I'm pursuing my B.S. in Computer Science with a Software Engineering concentration, and was admitted to UNC Charlotte’s Early Entry M.S. in Computer Science program with a focus in Artificial Intelligence.
 
-My main focus right now is [**Verdict**](https://github.com/Yameen05/Verdict), an AI-powered equity research platform I’m building into a real shipped product. It combines SEC filings, financial data, news, and multi-agent AI workflows to generate explainable investment research.
+My main focus right now is [**Verdict**](https://github.com/Yameen05/Verdict), an AI-powered equity research platform I’m building into a real product. It combines SEC filings, financial data, news, and multi-agent AI workflows to generate explainable investment research.
 
 I also build full-stack projects like [**Tally**](https://github.com/Yameen05/Tally), a personal finance tracker built with Spring Boot and React.
 
